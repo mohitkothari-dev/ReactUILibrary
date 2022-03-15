@@ -7,7 +7,7 @@ Beautiful and lightweight UI component for ReactJS developers. This UI library w
 ![forks](https://img.shields.io/github/forks/mohitkothari-dev/ReactUILibrary?style=plastic)
 ![stars](https://img.shields.io/github/stars/mohitkothari-dev/ReactUILibrary?style=plastic)
 
-Live StoryBook DEMO: https://reactuicomponent.netlify.app/
+Live StoryBook DEMO: https://reactuilibrary.netlify.app/
 
 Live DEMO: https://o7s75t.csb.app/
 
