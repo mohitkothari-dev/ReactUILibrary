@@ -4,7 +4,7 @@ Beautiful and lightweight UI component for ReactJS developers. This UI library w
 
 Here goes the badges
 
-Live StoryBook DEMO: 
+Live StoryBook DEMO: https://reactuicomponent.netlify.app/
 
 Live DEMO: https://o7s75t.csb.app/
 
@@ -44,7 +44,7 @@ import { Button } from "@mohitkothari/buttons";
 
 const App = () => (
     <>
-        <Button label="Submit" size="large" backgroundColor="#ffffff" />
+        <Button label="Submit" size="small" backgroundColor="#00d2d3" textColor="#fff" />
     </>
 );
 ```
