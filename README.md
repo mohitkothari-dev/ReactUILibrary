@@ -2,7 +2,10 @@
 
 Beautiful and lightweight UI component for ReactJS developers. This UI library will speed up your app development.
 
-Here goes the badges
+![License](https://img.shields.io/npm/l/@mohitkothari/buttons?style=plastic)
+![issues](https://img.shields.io/github/issues/mohitkothari-dev/ReactUILibrary?style=plastic)
+![forks](https://img.shields.io/github/forks/mohitkothari-dev/ReactUILibrary?style=plastic)
+![stars](https://img.shields.io/github/stars/mohitkothari-dev/ReactUILibrary?style=plastic)
 
 Live StoryBook DEMO: https://reactuicomponent.netlify.app/
 
