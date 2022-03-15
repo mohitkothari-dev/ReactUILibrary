@@ -1,0 +1,30 @@
+.storybook-button {
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    border-radius: 3em;
+    cursor: pointer;
+    display: inline-block;
+    line-height: 1;
+    color: #000;
+    background-color: #fff;
+    border: none;
+    transition: all 0.3s ease 0s;
+    outline: none;
+  }
+  .storybook-button--small {
+    font-size: 12px;
+    padding: 10px 16px;
+    width: 25%;
+  }
+  .storybook-button--medium {
+    font-size: 14px;
+    padding: 11px 20px;
+    width: 50%;
+  }
+  .storybook-button--large {
+    font-size: 16px;
+    padding: 12px 24px;
+    width: 100%;
+  }
